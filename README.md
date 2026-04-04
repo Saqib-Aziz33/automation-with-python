@@ -8,3 +8,4 @@ Software and IT automation with python
 - [Github link for 👆](https://github.com/elmoallistair/google-it-automation)
 - [Advanced Python Topics Tutorial Geek for geeks](https://www.geeksforgeeks.org/python/advanced-python-tutorials/)
 - [Automate the Boring Stuff with Python.pdf](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)
+- [3.5 Hours of Python Automation Projects - From Beginner to Advanced](https://www.youtube.com/watch?v=916TXUN3nPU)
